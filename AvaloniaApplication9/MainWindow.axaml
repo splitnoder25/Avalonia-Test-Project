@@ -21,7 +21,7 @@
       <StackPanel>
         <TextBox Name="ipAddressControl1"></TextBox>
         <NumericUpDown Name="numericUpDown1"></NumericUpDown>
-        <Button Name="scan_button" Click="Button_Scan">Scan</Button>
+        <Button Name="scan_button" Click="Button_Scan">Сканировать</Button>
         <ProgressBar Name="progressBar1"></ProgressBar>
         <TextBox AcceptsReturn="True" TextWrapping="Wrap" Name="ListBox1"></TextBox>
       </StackPanel>
