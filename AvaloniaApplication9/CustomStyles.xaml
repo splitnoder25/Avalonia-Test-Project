@@ -1,0 +1,7 @@
+﻿<Styles  xmlns:styling="clr-namespace:Avalonia.Styling;assembly=Avalonia.Styling" xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style Selector="TextBlock.h1">
+        <styling:Setter Property="FontSize" Value="24"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+    </Style>
+</Styles>
